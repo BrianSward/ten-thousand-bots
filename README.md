@@ -33,3 +33,4 @@
 ## Version 4
 
 - Bot time
+- Bots work, I can beat them all although MarkBot wins on occasion
